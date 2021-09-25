@@ -8,3 +8,4 @@ Create a file in the db directory called schema.sql and add the following code t
 DROP DATABASE IF EXISTS just_tech_news_db;
 
 CREATE DATABASE just_tech_news_db;
+
