@@ -1,7 +1,6 @@
 {
   "name": "Just-Tech-News",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "dependencies": {
     "bcrypt": "^5.0.1",
@@ -28,5 +27,6 @@
   "bugs": {
     "url": "https://github.com/umairali-bit/Just-Tech-News/issues"
   },
-  "homepage": "https://github.com/umairali-bit/Just-Tech-News#readme"
+  "homepage": "https://github.com/umairali-bit/Just-Tech-News#readme",
+  "description": ""
 }
